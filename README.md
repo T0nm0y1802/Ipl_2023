@@ -45,17 +45,3 @@ On this page, users can select their best playing XI based on player performance
 3. **Power BI Visualization**: Import the cleaned data into Power BI and design the dashboard with four pages: Batsman Performance, Bowler Performance, All-Rounder Analysis, and Final 11 Selection.
 4. **Interact with the Dashboard**: Users can interact with the Power BI dashboard to explore player statistics, compare performances, and make selections for their final playing XI.
 
-## Future Enhancements
-
-- Incorporate additional visualizations and insights, such as team performance analysis and match trends.
-- Implement machine learning models to predict player performance or match outcomes.
-- Integrate real-time data updates to keep the dashboard current during the IPL season.
-
-## Contributors
-
-- [Your Name]
-- [Additional Contributors]
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
